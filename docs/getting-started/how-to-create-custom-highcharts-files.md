@@ -104,7 +104,7 @@ custom package file either as a ES module...
             Highcharts.chart('container', {
                 series: [{
                     type: 'line',
-                    data: [1, 32, 42]
+                    data: [1, 32, 45]
                 }]
             });
         </script>
